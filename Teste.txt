@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+
+ int minhaIdade;
+    int paiIdade;
+    int maeIdade;
+    
+    minhaIdade = 14;
+    paiIdade = 42;
+    maeIdade = 35;
+    printf ("Minha idade é = %i.\n", minhaIdade);
+    printf ("Idade do Pai é = %i.\n", paiIdade);
+    printf ("Idade da Mae é = %i.\n", maeIdade);
+    return 0;
