@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-int main(void) {
+int main() 
+{
 
- int minhaIdade;
+  int minhaIdade;
     int paiIdade;
     int maeIdade;
     
@@ -13,3 +14,4 @@ int main(void) {
     printf ("Idade do Pai é = %i.\n", paiIdade);
     printf ("Idade da Mae é = %i.\n", maeIdade);
     return 0;
+}
